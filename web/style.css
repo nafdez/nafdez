@@ -1,0 +1,32 @@
+.header1 {
+    display: flex;
+    background-color: crimson;
+    justify-content: center;
+}
+
+section {
+    justify-content: center;
+    width: 100vh;
+}
+
+.button {
+    display: flex;
+    width: fit-content;
+    justify-content: center;
+
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: chocolate;
+}
+
+.button:hover {
+    font-size: xx-large;
+}
+
+.button_2 {
+    display: flex;
+    width: fit-content;
+    justify-content: center;
+
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: chocolate;
+}
